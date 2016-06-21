@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/page",
+    "description": "Module blog",
+    "homepage": "https://github.com/giicms/page",
+    "keywords": ["yii2","page"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\page\\": ""
+        }
+    }
+}
